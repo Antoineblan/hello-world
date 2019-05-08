@@ -7,3 +7,5 @@ Just to see what a 2nd commit looks like!
 
 Now we're couple of month later, I'm adding those lines.
 Still works when I commit?
+Looks like it :-)
+
